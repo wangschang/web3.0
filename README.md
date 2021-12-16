@@ -11,3 +11,6 @@ web3.0知识整理 web3.0知识
 
 
 ## 4.其他相关
+
+
+https://cointelegraphcn.com/news/web30-future
