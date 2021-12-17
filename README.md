@@ -16,3 +16,5 @@ web3.0知识整理 web3.0知识
 https://cointelegraphcn.com/news/web30-future
 
 https://fisco.jp/media/web3-crypto/
+
+https://www.bitmmp.com/index.php/topic,504081.msg504477.html#msg504477
