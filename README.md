@@ -11,6 +11,7 @@ web3.0知识整理 web3.0知识
 
 [深度丨一文看懂 Web3.0 的昨天、今天与明天](https://cointelegraphcn.com/news/web30-future)
 
+[Web 3.0 and the Future of Trust](https://a16z.com/2019/11/12/the-end-of-centralization-and-the-future-of-trust/)
 
 ## 4.其他相关
 
