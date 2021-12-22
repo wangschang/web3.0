@@ -14,6 +14,8 @@ web3.0知识整理 web3.0知识
 [Web 3.0 and the Future of Trust](https://a16z.com/2019/11/12/the-end-of-centralization-and-the-future-of-trust/)
 
 
-## 4.其他相关
+## 4.相关新闻
+
+## 5.其他相关
 
 
