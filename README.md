@@ -6,6 +6,7 @@ web3.0知识整理 web3.0知识
 
 ## 2.应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
+[web3.0游戏之构建](https://mp.weixin.qq.com/s/LorvSS9JedrPeUnW6-5Hdg)
 
 ## 3.未来展望
 [Web3 崛起：从地缘政治时代过渡到技术政治时代的 10 种方式](https://www.chaincatcher.com/article/2067627)
