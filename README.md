@@ -17,7 +17,8 @@ web3.0知识整理 web3.0知识
 
 
 ## 4.相关新闻
-
+2021-12-27 [什么是Web3，为什么玩加密货币的人都开始谈论Web3.0？](https://www.techbang.com/posts/92980-web3-cryptocurrency)
+2021-10-05 [除了元宇宙，你也该认识的未來网络：Web 3.0](https://buzzorange.com/techorange/2021/10/05/what-is-web3/)
 ## 5.其他相关
 
 
