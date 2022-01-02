@@ -3,6 +3,7 @@ web3.0知识整理 web3.0知识
 ## 1.基础知识
 [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)
 [wiki web3.0](https://wiki.mbalib.com/zh-tw/Web_3.0)
+[WEB3 STARTER PACK(英文 关于web3.0 DAO NFT)](https://www.notion.so/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd)
 
 ## 2.应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
