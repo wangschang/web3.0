@@ -25,6 +25,8 @@ web3.0知识整理 web3.0知识
 
 2021-10-05 [除了元宇宙，你也该认识的未來网络：Web 3.0](https://buzzorange.com/techorange/2021/10/05/what-is-web3/)
 
+2022-01-9 [规模化的Web3离我们还有多远？](https://www.bitpush.news/articles/2114411)
+
 ## 5.其他相关
 
 
