@@ -7,6 +7,8 @@ web3.0知识整理 web3.0知识
 
 [WEB3 STARTER PACK(英文 关于web3.0 DAO NFT)](https://www.notion.so/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd)
 
+[web3 包括作者区块链相关的学习资料](https://docs.worklife.vip/web/#/19/2000)
+
 ## 2.应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
 
@@ -19,6 +21,9 @@ web3.0知识整理 web3.0知识
 
 [Web 3.0 and the Future of Trust](https://a16z.com/2019/11/12/the-end-of-centralization-and-the-future-of-trust/)
 
+[Gavin 专访：十年后 Web3.0 世界是怎样的？](https://mp.weixin.qq.com/s/UgdrwmBf569lFbAiMQyjLw)
+
+
 
 ## 4.相关新闻
 2021-12-27 [什么是Web3，为什么玩加密货币的人都开始谈论Web3.0？](https://www.techbang.com/posts/92980-web3-cryptocurrency)
@@ -28,5 +33,11 @@ web3.0知识整理 web3.0知识
 2022-01-9 [规模化的Web3离我们还有多远？](https://www.bitpush.news/articles/2114411)
 
 ## 5.其他相关
+
+[走进web3.0](https://www.bmpi.dev/dev/glimpse-of-web3/)
+
+[web3 report](https://consensys.net/reports/web3-report-q3-2021/)
+
+[My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 
