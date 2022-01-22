@@ -9,6 +9,11 @@ web3.0知识整理 web3.0知识
 
 [web3 包括作者区块链相关的学习资料](https://docs.worklife.vip/web/#/19/2000)
 
+[九句话，从零了解Web3](https://theblockbeats.info/news/28748)
+
+[维基百科词条](https://zh.wikipedia.org/wiki/Web3)
+
+
 ## 2.应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
 
