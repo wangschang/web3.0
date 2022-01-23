@@ -13,6 +13,7 @@ web3.0知识整理 web3.0知识
 
 [维基百科词条](https://zh.wikipedia.org/wiki/Web3)
 
+[What Is Web 3.0?--英文需翻墙](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 
 ## 2.应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
