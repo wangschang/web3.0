@@ -1,6 +1,7 @@
 # web3.0
-web3.0知识整理 web3.0知识 
-## 1.基础知识
+web3.0知识整理 web3.0知识 web3.0学习资料
+
+## 1.web3.0基础知识
 [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)
 
 [wiki web3.0](https://wiki.mbalib.com/zh-tw/Web_3.0)
@@ -15,7 +16,7 @@ web3.0知识整理 web3.0知识
 
 [What Is Web 3.0?--英文需翻墙](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 
-## 2.应用及项目
+## 2.web3.0应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
 
 [web3.0游戏之构建](https://mp.weixin.qq.com/s/LorvSS9JedrPeUnW6-5Hdg)
@@ -31,7 +32,7 @@ web3.0知识整理 web3.0知识
 
 
 
-## 4.相关新闻
+## 4.web3.0相关新闻
 2021-12-27 [什么是Web3，为什么玩加密货币的人都开始谈论Web3.0？](https://www.techbang.com/posts/92980-web3-cryptocurrency)
 
 2021-10-05 [除了元宇宙，你也该认识的未來网络：Web 3.0](https://buzzorange.com/techorange/2021/10/05/what-is-web3/)
