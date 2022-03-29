@@ -18,6 +18,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料
 
 [元宇宙系列之三：一文读懂Web 3.0](http://www.woshipm.com/it/5261307.html)
 
+[WEB3.0漫游指南【推荐】](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc)
+
 ## 2.web3.0应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
 
