@@ -52,3 +52,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料
 [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 
+## 6.Mirror相关资源
+[mirror作者汇总](https://zlexdl.notion.site/1ab3c1114b5a47ecb8480faf78dbde84?v=b618a6f201c74139a244782ad04bece4)
+
+
