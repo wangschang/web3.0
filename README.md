@@ -69,3 +69,10 @@ web3.0知识整理 web3.0知识 web3.0学习资料
 ## 8.Reddit资源
 
 ## 9.discord频道
+
+## 10.视频相关
+
+[freeCodeCamp 32个小时区块链Web3开发课程](https://www.bilibili.com/video/BV1E94y1m7J5)
+
+
+
