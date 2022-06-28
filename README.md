@@ -55,6 +55,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料
 ## 6.Mirror相关资源
 [mirror作者汇总](https://zlexdl.notion.site/1ab3c1114b5a47ecb8480faf78dbde84?v=b618a6f201c74139a244782ad04bece4)
 
+[当我们在讨论“代币经济模型”设计的时候到底在讲什么](https://mirror.xyz/0xdaodao.eth/iCGiNziFp8yTNTEHC60xXxNz7OLfe8W5zegVv8DP9is) 
 
 ## 7.Twitter相关用户
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
