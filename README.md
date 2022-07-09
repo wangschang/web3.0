@@ -57,6 +57,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [当我们在讨论“代币经济模型”设计的时候到底在讲什么](https://mirror.xyz/0xdaodao.eth/iCGiNziFp8yTNTEHC60xXxNz7OLfe8W5zegVv8DP9is) 
 
+[Web3的启示：暴力强权对经济的意义](https://mirror.xyz/0x161F768820dd53cf3e7254f1BFb4F0D4076E3ec0/kWktk6ZER-haYRR4HaaTmT3gesIkT6CGYSntSPHxEy0)
+
 ## 7.Twitter相关用户
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
 
