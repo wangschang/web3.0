@@ -59,6 +59,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [Web3的启示：暴力强权对经济的意义](https://mirror.xyz/0x161F768820dd53cf3e7254f1BFb4F0D4076E3ec0/kWktk6ZER-haYRR4HaaTmT3gesIkT6CGYSntSPHxEy0)
 
+
+
 ## 7.Twitter相关用户
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
 
@@ -68,14 +70,21 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/Web3foundation](https://twitter.com/Web3foundation)
 
-     
+## 8.mirror 用户
+
+[https://mirror.xyz/jiushi.eth](https://mirror.xyz/jiushi.eth)
+
+
 ## 8.Reddit资源
 
-## 9.discord频道
+## 10.discord频道
 
-## 10.视频相关
+## 11.视频相关
 
 [freeCodeCamp 32个小时区块链Web3开发课程](https://www.bilibili.com/video/BV1E94y1m7J5)
 
+## 12.相关书籍
+
+[主权个人](http://btc.mom/category/%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%B8%BB%E6%9D%83%E4%B8%AA%E4%BA%BA/)
 
 
