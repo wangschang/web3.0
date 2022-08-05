@@ -79,6 +79,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/web3university](https://twitter.com/web3university)
 
+[https://twitter.com/web3isgreat](https://twitter.com/web3isgreat)
 
 ## 8.mirror 用户
 
