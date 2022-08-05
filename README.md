@@ -73,6 +73,13 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/Web3foundation](https://twitter.com/Web3foundation)
 
+[https://twitter.com/VitalikButerin](https://twitter.com/VitalikButerin)
+
+[https://twitter.com/ethereum](https://twitter.com/ethereum)
+
+[https://twitter.com/web3university](https://twitter.com/web3university)
+
+
 ## 8.mirror 用户
 
 [https://mirror.xyz/jiushi.eth](https://mirror.xyz/jiushi.eth)
