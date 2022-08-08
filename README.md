@@ -85,6 +85,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://mirror.xyz/jiushi.eth](https://mirror.xyz/jiushi.eth)
 
+[https://mirror.xyz/ericyhu.eth](https://mirror.xyz/ericyhu.eth)
 
 ## 8.Reddit资源
 
