@@ -94,6 +94,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [freeCodeCamp 32个小时区块链Web3开发课程](https://www.bilibili.com/video/BV1E94y1m7J5)
 
+[youtube What is Web 3.0? (Explained with Animations)](https://www.youtube.com/watch?v=nHhAEkG1y2U)
+
+
 ## 12.相关书籍
 
 [【主权个人】](http://btc.mom/category/%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%B8%BB%E6%9D%83%E4%B8%AA%E4%BA%BA/)
