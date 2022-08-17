@@ -62,6 +62,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [Web3的启示：暴力强权对经济的意义](https://mirror.xyz/0x161F768820dd53cf3e7254f1BFb4F0D4076E3ec0/kWktk6ZER-haYRR4HaaTmT3gesIkT6CGYSntSPHxEy0)
 
+[我眼中区块链各个赛道正在演进的技术趋势](https://mirror.xyz/0x2C4B9083c95F7c33d78B6088979fCE9B2c493Fe6/dj3qXEGWF5qpJkeV2Yygc9-VPiGiAo8UQCOIq6fJfYc)
 
 
 ## 7.Twitter相关用户
