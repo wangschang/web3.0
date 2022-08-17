@@ -107,6 +107,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [币安学院](https://academy.binance.com/zh)
 
+[blockchain-technology](https://www.edx.org/course/blockchain-technology)
+
 ## 14.例子
 
 [solidity-by-example](https://solidity-by-example.org/)
