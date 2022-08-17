@@ -113,7 +113,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [blockchain-technology](https://www.edx.org/course/blockchain-technology)
 
-[eth learn by code](https://ethereum.org/en/developers/learning-tools/)
+[eth learn by code](https://ethereum.org/en/developers/learning-tools/)   https://ethereum.org/zh/web3/ 
 
 
 ## 14.例子
