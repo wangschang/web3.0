@@ -102,6 +102,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [youtube Become a Web 3 & Blockchain Developer in 2022](https://www.youtube.com/watch?v=aVQJGr2J8io)
 
+[youtube  Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity ](https://www.youtube.com/watch?v=coQ5dg8wM2o)
+
 
 ## 12.相关书籍
 
