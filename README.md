@@ -100,6 +100,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [youtube What is Web 3.0? (Explained with Animations)](https://www.youtube.com/watch?v=nHhAEkG1y2U)
 
+[youtube Become a Web 3 & Blockchain Developer in 2022](https://www.youtube.com/watch?v=aVQJGr2J8io)
+
 
 ## 12.相关书籍
 
