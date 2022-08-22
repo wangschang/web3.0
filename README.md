@@ -104,6 +104,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [youtube  Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity ](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
+[Web3.js · Ethereum Blockchain Developer Crash Course](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN)
+
 
 ## 12.相关书籍
 
