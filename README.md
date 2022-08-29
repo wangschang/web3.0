@@ -66,6 +66,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [我眼中区块链各个赛道正在演进的技术趋势](https://mirror.xyz/0x2C4B9083c95F7c33d78B6088979fCE9B2c493Fe6/dj3qXEGWF5qpJkeV2Yygc9-VPiGiAo8UQCOIq6fJfYc)
 
+[Web3的底层逻辑：制度经济学视角](https://mirror.xyz/kokii.eth/FP6HuwGLNRGhctLyDh6R4H0UDm5liGyO3yZcWsfN-5E)
+
+[万物皆庞氏](https://mirror.xyz/0x0D59f93374Aa14e81Ff847a3eb59607371C4945f/GQyguotWhnLoHvsFHd7YjpdGiaM4wEVsqYDsBr40N3U)
 
 ## 7.Twitter相关用户
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
