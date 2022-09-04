@@ -109,6 +109,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [Web3.js · Ethereum Blockchain Developer Crash Course](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN)
 
+[哔哩哔哩 北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF?vd_source=8ad130aecf63ecff8fd1dfb836e03ecd)
+
 
 ## 12.相关书籍
 
