@@ -130,7 +130,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 
 ## 14.白皮书
-[比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
+[比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
+
+[比特币白皮书PDF](https://github.com/wangschang/web3.0/blob/main/doc/bitcoin_zh_cn.pdf)
 
 
 ## 15.例子
