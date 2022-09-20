@@ -129,7 +129,11 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [eth learn by code](https://ethereum.org/en/developers/learning-tools/)   https://ethereum.org/zh/web3/ 
 
 
-## 14.例子
+## 14.白皮书
+[比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
+
+
+## 15.例子
 
 [solidity-by-example](https://solidity-by-example.org/)
 
