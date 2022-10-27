@@ -97,6 +97,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [web3](https://www.reddit.com/r/web3/)
 
+[nft](https://www.reddit.com/r/NFT/)
+
 ## 10.discord频道
 
 
