@@ -24,6 +24,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [a16z web3 read list ](https://a16z.com/wp-content/uploads/2021/10/The-web3-Readlng-List.pdf)
 
+[加密广场--币圈wiki](https://www.cryptosquare.org/)
 
 ## 2.web3.0应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
@@ -47,6 +48,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 2021-10-05 [除了元宇宙，你也该认识的未來网络：Web 3.0](https://buzzorange.com/techorange/2021/10/05/what-is-web3/)
 
 2022-01-9 [规模化的Web3离我们还有多远？](https://www.bitpush.news/articles/2114411)
+
 
 ## 5.其他相关
 
