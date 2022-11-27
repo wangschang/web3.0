@@ -73,6 +73,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [万物皆庞氏](https://mirror.xyz/0x0D59f93374Aa14e81Ff847a3eb59607371C4945f/GQyguotWhnLoHvsFHd7YjpdGiaM4wEVsqYDsBr40N3U)
 
 ## 7.Twitter相关用户
+
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
 
 [https://twitter.com/IvanOnTech](https://twitter.com/IvanOnTech)
@@ -88,8 +89,6 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [https://twitter.com/web3university](https://twitter.com/web3university)
 
 [https://twitter.com/web3isgreat](https://twitter.com/web3isgreat)
-
-## 8.mirror 用户
 
 [https://mirror.xyz/jiushi.eth](https://mirror.xyz/jiushi.eth)
 
@@ -119,6 +118,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [哔哩哔哩 北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF?vd_source=8ad130aecf63ecff8fd1dfb836e03ecd)
 
+[youtube Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18509s)
 
 ## 12.相关书籍
 
