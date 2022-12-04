@@ -94,6 +94,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://mirror.xyz/ericyhu.eth](https://mirror.xyz/ericyhu.eth)
 
+[https://twitter.com/Web3_Shot](https://twitter.com/Web3_Shot)
+
 ## 8.Reddit资源
 
 [web3](https://www.reddit.com/r/web3/)
