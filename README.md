@@ -96,6 +96,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/Web3_Shot](https://twitter.com/Web3_Shot)
 
+[https://twitter.com/JRNYcrypto](https://twitter.com/JRNYcrypto)
+
 ## 8.Reddit资源
 
 [web3](https://www.reddit.com/r/web3/)
