@@ -132,7 +132,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [How to DEFI](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/master)
 
 
-## 13.学院
+## 13.学院/web3
 
 [币安学院](https://academy.binance.com/zh)
 
@@ -141,6 +141,14 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [eth learn by code](https://ethereum.org/en/developers/learning-tools/)  
 
 [ethereum web3](https://ethereum.org/zh/web3/)
+
+[web3study](https://web3study.club/)
+
+[deschool](https://deschool.app/landing)
+
+[dataverse-os.com](https://dataverse-os.com/)
+
+[www.dbdao.xyz](https://www.dbdao.xyz/)
 
 
 ## 14.白皮书
