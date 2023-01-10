@@ -2,18 +2,18 @@
 web3.0 knowledge web3 learn
 
 ## 1.web3.0 basic
-[对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)
+[about Web3.0 topic](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)
 
 [wiki web3.0](https://wiki.mbalib.com/zh-tw/Web_3.0)
 
-[WEB3 STARTER PACK(英文 关于web3.0 DAO NFT)](https://www.notion.so/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd)
+[WEB3 STARTER PACK(about web3.0 DAO NFT)](https://www.notion.so/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd)
 
-[web3 包括作者区块链相关的学习资料](https://docs.worklife.vip/web/#/19/2000)
+[web3 blockchain](https://docs.worklife.vip/web/#/19/2000)
 
 
 [What Is Web 3.0?](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 
-[元宇宙系列之三：一文读懂Web 3.0](http://www.woshipm.com/it/5261307.html)
+[Web 3.0](http://www.woshipm.com/it/5261307.html)
 
 [WEB3.0漫游指南【推荐】](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc)
 
@@ -35,14 +35,8 @@ web3.0 knowledge web3 learn
 
 
 
-## 4.web3.0 news 
 
- [除了元宇宙，你也该认识的未來网络：Web 3.0](https://buzzorange.com/techorange/2021/10/05/what-is-web3/)
-
- [规模化的Web3离我们还有多远？](https://www.bitpush.news/articles/2114411)
-
-
-## 5. others 
+## 4. others 
 
 [走进web3.0](https://www.bmpi.dev/dev/glimpse-of-web3/)
 
@@ -51,7 +45,7 @@ web3.0 knowledge web3 learn
 [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 
-## 6.Mirror resource
+## 5.Mirror resource
 [mirror authors](https://zlexdl.notion.site/1ab3c1114b5a47ecb8480faf78dbde84?v=b618a6f201c74139a244782ad04bece4)
 
 [当我们在讨论“代币经济模型”设计的时候到底在讲什么](https://mirror.xyz/0xdaodao.eth/iCGiNziFp8yTNTEHC60xXxNz7OLfe8W5zegVv8DP9is) 
@@ -64,7 +58,7 @@ web3.0 knowledge web3 learn
 
 [万物皆庞氏](https://mirror.xyz/0x0D59f93374Aa14e81Ff847a3eb59607371C4945f/GQyguotWhnLoHvsFHd7YjpdGiaM4wEVsqYDsBr40N3U)
 
-## 7.Twitter authors
+## 6.Twitter authors
 
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
 
@@ -90,17 +84,16 @@ web3.0 knowledge web3 learn
 
 [https://twitter.com/JRNYcrypto](https://twitter.com/JRNYcrypto)
 
-## 8.Reddit resoures
+## 7.Reddit resoures
 
 [web3](https://www.reddit.com/r/web3/)
 
 [nft](https://www.reddit.com/r/NFT/)
 
-## 10.discord
 
 
 
-## 11.videos 
+## 8.videos 
 
 
 [youtube What is Web 3.0? (Explained with Animations)](https://www.youtube.com/watch?v=nHhAEkG1y2U)
@@ -115,7 +108,7 @@ web3.0 knowledge web3 learn
 
 [youtube Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18509s)
 
-## 12.相关书籍
+## 9.books
 
 [【主权个人】](http://btc.mom/category/%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%B8%BB%E6%9D%83%E4%B8%AA%E4%BA%BA/)
 
@@ -123,9 +116,9 @@ web3.0 knowledge web3 learn
 [How to DEFI](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/master)
 
 
-## 13.学院/web3
+## 10.academy/web3
 
-[币安学院](https://academy.binance.com/zh)
+[binance learn](https://academy.binance.com/zh)
 
 [blockchain-technology](https://www.edx.org/course/blockchain-technology)
 
@@ -146,11 +139,11 @@ web3.0 knowledge web3 learn
 
 
 ## 14. white paper
-[比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
+[bitcoin](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
 
-[比特币白皮书PDF](https://github.com/wangschang/web3.0/blob/main/doc/bitcoin_zh_cn.pdf)
+[bitcoin white PDF](https://github.com/wangschang/web3.0/blob/main/doc/bitcoin_zh_cn.pdf)
 
-[以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+[eth white paper](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
 
 ## 15.examples
