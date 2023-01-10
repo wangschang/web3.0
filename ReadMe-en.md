@@ -142,6 +142,9 @@ web3.0 knowledge web3 learn
 [www.dbdao.xyz](https://www.dbdao.xyz/)
 
 
+[coindesk learn](https://www.coindesk.com/learn/)
+
+
 ## 14. white paper
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
 
