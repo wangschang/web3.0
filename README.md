@@ -150,6 +150,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [www.dbdao.xyz](https://www.dbdao.xyz/)
 
+[coindesk learn](https://www.coindesk.com/learn/)
 
 ## 14.白皮书
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
