@@ -159,8 +159,12 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 
+## 15.报告
 
-## 15.例子
+[Web3.0创作者经济报告：CreatorFi的发展现状和想象空间(2023-01-16)](https://www.theblockbeats.info/report)
+
+
+## 16.例子
 
 [solidity-by-example](https://solidity-by-example.org/)
 
