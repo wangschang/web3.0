@@ -163,6 +163,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [Web3.0创作者经济报告：CreatorFi的发展现状和想象空间(2023-01-16)](https://www.theblockbeats.info/report)
 
+[全球 Web3 技术产业生态发展报告(2023-01-16)](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020230105569849787721.pdf)
+
 
 ## 16.例子
 
