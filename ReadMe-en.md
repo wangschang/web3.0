@@ -150,3 +150,8 @@ web3.0 knowledge web3 learn
 
 [solidity-by-example](https://solidity-by-example.org/)
 
+## 16.research
+
+[A&T Capital launches ‘Web3 Trends 2023’ report] (https://cryptoslate.com/at-capital-launches-web3-trends-2023-report/)
+
+
