@@ -170,3 +170,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [solidity-by-example](https://solidity-by-example.org/)
 
+## 17.web3 jobs
+
+[web3 career](https://web3.career/)
+
