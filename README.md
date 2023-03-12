@@ -165,6 +165,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [全球 Web3 技术产业生态发展报告(2023-01-16)](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020230105569849787721.pdf)
 
+[a16z web3 reading list](https://a16z.com/wp-content/uploads/2021/10/The-web3-Readlng-List.pdf)
 
 ## 16.例子
 
