@@ -178,4 +178,13 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
 
+## 19.erc协议
+
+[erc-20](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)
+
+[erc-721](https://ethereum.org/zh/developers/docs/standards/tokens/erc-721/)
+
+[erc-1155](https://ethereum.org/zh/developers/docs/standards/tokens/erc-1155/)
+
+[erc-4626](https://ethereum.org/zh/developers/docs/standards/tokens/erc-4626/)
 
