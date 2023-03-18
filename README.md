@@ -124,6 +124,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [youtube Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18509s)
 
+[youtube Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+
 ## 12.相关书籍
 
 [【主权个人】](http://btc.mom/category/%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%B8%BB%E6%9D%83%E4%B8%AA%E4%BA%BA/)
