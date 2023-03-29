@@ -49,6 +49,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 2022-01-9 [规模化的Web3离我们还有多远？](https://www.bitpush.news/articles/2114411)
 
+[link3.to](https://link3.to/)
+
 
 ## 5.其他相关
 
