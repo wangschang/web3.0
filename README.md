@@ -179,6 +179,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [web3 career](https://web3.career/)
 
+[remote3.co](https://remote3.co/)
+
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
 
