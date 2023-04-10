@@ -190,6 +190,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [erc-721](https://ethereum.org/zh/developers/docs/standards/tokens/erc-721/)
 
+[erc-777](https://eips.ethereum.org/EIPS/eip-777)
+
 [erc-1155](https://ethereum.org/zh/developers/docs/standards/tokens/erc-1155/)
 
 [erc-4626](https://ethereum.org/zh/developers/docs/standards/tokens/erc-4626/)
