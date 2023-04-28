@@ -188,6 +188,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [erc-20](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)
 
+[brc-20视频](https://www.youtube.com/watch?v=ck7loCKK140)
+
 [erc-721](https://ethereum.org/zh/developers/docs/standards/tokens/erc-721/)
 
 [erc-777](https://eips.ethereum.org/EIPS/eip-777)
