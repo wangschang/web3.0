@@ -183,6 +183,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [cryptocurrencyjobs](https://cryptocurrencyjobs.co/web3/)
 
+[jobs3.io](https://jobs3.io/)
+
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
 
