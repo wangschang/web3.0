@@ -202,3 +202,6 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [erc-4626](https://ethereum.org/zh/developers/docs/standards/tokens/erc-4626/)
 
+## 20.magazine
+
+[bitcoinmagazine](https://bitcoinmagazine.com/)
