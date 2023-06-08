@@ -26,6 +26,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [加密广场--币圈wiki](https://www.cryptosquare.org/)
 
+[library-of-web3](https://alexdphan.com/research/library-of-web3)
+
 ## 2.web3.0应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
 
