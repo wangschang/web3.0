@@ -173,6 +173,11 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [a16z web3 reading list](https://a16z.com/wp-content/uploads/2021/10/The-web3-Readlng-List.pdf)
 
+[web3-developer-report-q1-2023](https://www.alchemy.com/blog/web3-developer-report-q1-2023)
+
+[2023 Trends in Environment and Gaming](https://mpost.io/web3-fundraising-report-for-q1-2023-trends-in-environment-and-gaming/)
+
+
 ## 16.例子
 
 [solidity-by-example](https://solidity-by-example.org/)
