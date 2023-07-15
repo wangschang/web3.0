@@ -42,6 +42,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [Gavin 专访：十年后 Web3.0 世界是怎样的？](https://mp.weixin.qq.com/s/UgdrwmBf569lFbAiMQyjLw)
 
+[送给 Web3 后浪们的职业手册](https://mirror.xyz/0x4C48F992B9201b4f7C26a7bE42D80D034402e14C/4G753-DNJsBcpjNfHh9OiyIptaQ4sPKQ_rKsFNOob6M)
 
 
 ## 4.web3.0相关新闻
