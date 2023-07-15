@@ -210,6 +210,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [erc-4626](https://ethereum.org/zh/developers/docs/standards/tokens/erc-4626/)
 
+[erc-4337](https://academy.binance.com/zh/articles/what-is-erc-4337-or-account-abstraction-for-ethereum)
+
+
 ## 20.magazine
 
 [bitcoinmagazine](https://bitcoinmagazine.com/)
