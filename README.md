@@ -216,3 +216,21 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 ## 20.magazine
 
 [bitcoinmagazine](https://bitcoinmagazine.com/)
+
+## 21.web3开发资源
+
+[Web3.swift--https://github.com/Boilertalk/Web3.swift](https://github.com/Boilertalk/Web3.swift)
+
+[Flutter Web3--https://github.com/y-pakorn/flutter_web3](https://github.com/y-pakorn/flutter_web3)
+
+[Ledger Connect 链接到web3程序--https://get-connect.ledger.com/](https://get-connect.ledger.com/)
+
+[Rainbow Kit--https://www.rainbowkit.me/](https://www.rainbowkit.me/)
+
+[wagmi.sh React Hooks的集合--https://wagmi.sh/](https://wagmi.sh/)
+
+[WalletConnect钱包🔗--https://walletconnect.com/](https://walletconnect.com/)
+
+[Moralis 钱包登录--https://moralis.io/](https://moralis.io/)
+
+[LT Browser移动端浏览器测试](https://www.lambdatest.com/lt-browser)
