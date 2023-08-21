@@ -193,6 +193,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [jobs3.io](https://jobs3.io/)
 
+[电鸭](https://eleduck.com/categories/5)
+
+
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
 
