@@ -141,6 +141,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [【精通比特币】](https://github.com/tianmingyun/MasterBitcoin2CN)
 
+[《精通以太坊——实现数字合约》 ](https://github.com/inoutcode/ethereum_book)
+
+
 ## 13.学院/web3
 
 [币安学院](https://academy.binance.com/zh)
