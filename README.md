@@ -33,6 +33,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [web3.0游戏之构建](https://mp.weixin.qq.com/s/LorvSS9JedrPeUnW6-5Hdg)
 
+[知乎：web3有哪些应用](https://www.zhihu.com/question/399036343)
+
 ## 3.未来展望
 [Web3 崛起：从地缘政治时代过渡到技术政治时代的 10 种方式](https://www.chaincatcher.com/article/2067627)
 
