@@ -28,6 +28,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [library-of-web3](https://alexdphan.com/research/library-of-web3)
 
+[web3入门](https://developer.oracle.com/zh/learn/technical-articles/web3-guide)
+
+
 ## 2.web3.0应用及项目
 [什么是Web3.0？深入讲解推荐的Web3.0加密货币品牌及如何选择【日文】](https://fisco.jp/media/web3-crypto/)
 
@@ -132,6 +135,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [youtube Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=18509s)
 
 [youtube Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+
+[youtube web3入门](https://www.youtube.com/playlist?list=PLENCD250sNBU7uuwVflBagAxNrIqVcdJC)
+
 
 ## 12.相关书籍
 
@@ -242,3 +248,10 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 [Moralis 钱包登录--https://moralis.io/](https://moralis.io/)
 
 [LT Browser移动端浏览器测试](https://www.lambdatest.com/lt-browser)
+
+[Defi Road map(github)](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
+[Nft开发圣经](https://opensea.io/blog/guides/non-fungible-tokens/)
+
+[eth开发完全手册](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+
