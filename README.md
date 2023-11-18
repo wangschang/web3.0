@@ -228,6 +228,7 @@ BuidlerDAO
 
 [erc-4337](https://academy.binance.com/zh/articles/what-is-erc-4337-or-account-abstraction-for-ethereum)
 
+[brc20与arc20](https://twitter.com/blockpunk2077/status/1725513817982136617)
 
 ## 20.magazine
 
