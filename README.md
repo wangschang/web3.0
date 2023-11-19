@@ -172,6 +172,8 @@ BuidlerDAO
 
 [coindesk learn](https://www.coindesk.com/learn/)
 
+[btcstudy](https://www.btcstudy.org/)
+
 ## 14.白皮书
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
 
