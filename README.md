@@ -108,6 +108,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/JRNYcrypto](https://twitter.com/JRNYcrypto)
 
+[https://twitter.com/wangfeng_0128](https://twitter.com/wangfeng_0128)
+
+
 ## 8.Reddit资源
 
 [web3](https://www.reddit.com/r/web3/)
@@ -173,6 +176,8 @@ BuidlerDAO
 [coindesk learn](https://www.coindesk.com/learn/)
 
 [btcstudy](https://www.btcstudy.org/)
+
+[123btc 比特币导航](https://123btc.org/)
 
 ## 14.白皮书
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
