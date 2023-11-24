@@ -198,6 +198,7 @@ BuidlerDAO
 
 [2023 Trends in Environment and Gaming](https://mpost.io/web3-fundraising-report-for-q1-2023-trends-in-environment-and-gaming/)
 
+[2023 a16z web3报告](https://api.a16zcrypto.com/wp-content/uploads/2023/11/State-of-Crypto-2023_Policy-Spotlight.pdf)
 
 ## 16.例子
 
