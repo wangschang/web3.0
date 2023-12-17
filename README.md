@@ -267,6 +267,8 @@ BuidlerDAO
 [eth开发完全手册](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 
 
-![image](doc/zfbqrcode.png)
+## 支付宝打赏
+
+![image](doc/zfbqrcode.jpg)
 
 
