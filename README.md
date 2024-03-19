@@ -228,7 +228,7 @@ BuidlerDAO
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
 
-## 19.erc协议
+## 19.erc/brc协议
 
 [erc-20](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)
 
