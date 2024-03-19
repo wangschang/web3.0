@@ -110,6 +110,12 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/wangfeng_0128](https://twitter.com/wangfeng_0128)
 
+[https://twitter.com/crypto_birb](https://twitter.com/crypto_birb)
+
+[https://twitter.com/52kskew](https://twitter.com/52kskew)
+
+[https://twitter.com/TheCryptoDog](https://twitter.com/TheCryptoDog)
+
 
 ## 8.Reddit资源
 
@@ -155,6 +161,7 @@ BuidlerDAO
 [《精通以太坊——实现数字合约》 ](https://github.com/inoutcode/ethereum_book)
 
 
+
 ## 13.学院/web3
 
 [币安学院](https://academy.binance.com/zh)
@@ -178,6 +185,7 @@ BuidlerDAO
 [btcstudy](https://www.btcstudy.org/)
 
 [123btc 比特币导航](https://123btc.org/)
+
 
 ## 14.白皮书
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
@@ -237,6 +245,7 @@ BuidlerDAO
 [erc-4337](https://academy.binance.com/zh/articles/what-is-erc-4337-or-account-abstraction-for-ethereum)
 
 [brc20与arc20](https://twitter.com/blockpunk2077/status/1725513817982136617)
+
 
 ## 20.magazine
 
