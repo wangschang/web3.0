@@ -116,6 +116,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [https://twitter.com/TheCryptoDog](https://twitter.com/TheCryptoDog)
 
+[https://twitter.com/Pentosh1](https://twitter.com/Pentosh1)
 
 ## 8.Reddit资源
 
