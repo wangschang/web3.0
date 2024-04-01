@@ -124,6 +124,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [nft](https://www.reddit.com/r/NFT/)
 
+[CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/)
+
 ## 10.公众号
 
 BuidlerDAO 
@@ -279,7 +281,7 @@ BuidlerDAO
 [戈多的区块链知识图谱](https://web3godot.notion.site/47f4be2e9e9146bcb7671bc7feff6bd4?v=a6ba65386b314e14b3d1a060f668893a)
 
 
-## Bitcoin L2
+## 22. Bitcoin L2
 
 [The Bitcoin L2 Opportunity](https://medium.com/alliancedao/the-bitcoin-l2-opportunity-9d90517da6f8)
 
