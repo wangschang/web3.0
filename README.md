@@ -130,7 +130,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 BuidlerDAO 
 
+web3中文
 
+白话区块链
 
 ## 11.视频相关
 
