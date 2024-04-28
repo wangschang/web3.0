@@ -24,7 +24,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [a16z web3 read list ](https://a16z.com/wp-content/uploads/2021/10/The-web3-Readlng-List.pdf)
 
-[加密广场--币圈wiki](https://www.cryptosquare.org/)
+[加密广场--币圈wiki](https://www.cryptosquare.org/?sid=wsc)
 
 [library-of-web3](https://alexdphan.com/research/library-of-web3)
 
