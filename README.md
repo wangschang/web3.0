@@ -236,6 +236,7 @@ web3中文
 
 [电鸭](https://eleduck.com/categories/5)
 
+[www.cryptosquare.org](https://www.cryptosquare.org/?f=wsc&cat=bbs_web3_jobs&lng=zh-cn)
 
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
