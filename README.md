@@ -138,6 +138,8 @@ web3中文
 
 keegan小刚
 
+web3研究社
+
 ## 11.视频相关
 
 [freeCodeCamp 32个小时区块链Web3开发课程](https://www.bilibili.com/video/BV1E94y1m7J5)
