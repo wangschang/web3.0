@@ -242,8 +242,14 @@ web3研究社
 
 [www.cryptosquare.org](https://www.cryptosquare.org/?f=wsc&cat=bbs_web3_jobs&lng=zh-cn)
 
+[https://abetterweb3.notion.site/](https://abetterweb3.notion.site/)
+
+
+
 ## 18.web3 tools 
 [https://d.tools/](https://d.tools/)
+
+[https://seedao.xyz/](https://seedao.xyz/)
 
 ## 19.erc/brc协议
 
