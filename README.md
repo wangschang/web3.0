@@ -201,6 +201,8 @@ web3研究社
 
 [revoke.cash 钱包相关资料](https://revoke.cash/zh/learn)
 
+[https://abetterweb3.notion.site/](https://abetterweb3.notion.site/)
+
 ## 14.白皮书
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
 
