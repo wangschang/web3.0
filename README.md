@@ -131,7 +131,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 ## 9.Medium资源
 
 [web3 tags](https://medium.com/tag/web3)
-  
+
+[blockchain tags](https://medium.com/tag/blockchain)  
 
 ## 10.公众号
 
