@@ -134,6 +134,10 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn
 
 [blockchain tags](https://medium.com/tag/blockchain)  
 
+[defi](https://medium.com/tag/defi)
+
+[crypto](https://medium.com/tag/crypto)
+
 ## 10.公众号
 
 BuidlerDAO 
