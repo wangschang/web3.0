@@ -240,7 +240,7 @@ web3研究社
 
 [solidity-by-example](https://solidity-by-example.org/)
 
-## 17.web3 jobs
+## 17.web3 jobs/web3工作机会
 
 [web3 career](https://web3.career/)
 
@@ -256,6 +256,9 @@ web3研究社
 
 [https://abetterweb3.notion.site/](https://abetterweb3.notion.site/)
 
+[cryptojobslist.com](https://cryptojobslist.com/web3)
+
+[linkedin.com web3jobs](https://www.linkedin.com/jobs/web3-jobs/)
 
 
 ## 18.web3 tools 
