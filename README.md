@@ -266,7 +266,8 @@ web3研究社
 
 
 ## 18.web3 tools 
-[https://d.tools/](https://d.tools/)
+
+[101 best webtools](https://101blockchains.com/best-web3-tools/)
 
 [https://seedao.xyz/](https://seedao.xyz/)
 
@@ -326,5 +327,5 @@ web3研究社
 
 [The Bitcoin L2 Opportunity](https://medium.com/alliancedao/the-bitcoin-l2-opportunity-9d90517da6f8)
 
-
+[What Are Bitcoin Layer-2s and How Do They Work?](https://crypto.com/university/what-are-bitcoin-layer-2s)
 
