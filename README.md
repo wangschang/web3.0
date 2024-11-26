@@ -1,5 +1,5 @@
 # web3.0
-web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作
+web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job web3remote
 
 ## 1.web3.0基础知识
 [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)
