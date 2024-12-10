@@ -130,6 +130,11 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/)
 
+[defi](https://www.reddit.com/r/defi/)
+
+[ERC20](https://www.reddit.com/r/ERC20/)
+
+
 ## 9.Medium资源
 
 [web3 tags](https://medium.com/tag/web3)
