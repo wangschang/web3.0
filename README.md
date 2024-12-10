@@ -249,7 +249,7 @@ web3研究社
 
 ## 17.web3 jobs/web3工作机会
 
-[web3 job 招聘网站汇总](https://github.com/web3job/recruiters)
+[web3 job 招聘网站汇总📈](https://github.com/web3job/recruiters)
 
 [web3 career](https://web3.career/)
 
@@ -275,6 +275,8 @@ web3研究社
 [101 best webtools](https://101blockchains.com/best-web3-tools/)
 
 [https://seedao.xyz/](https://seedao.xyz/)
+
+
 
 ## 19.erc/brc协议
 
