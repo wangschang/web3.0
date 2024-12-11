@@ -1,5 +1,5 @@
 # web3.0
-web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job web3remote
+web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job web3remote blockchain知识
 
 ## 1.web3.0基础知识
 [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)
@@ -188,7 +188,7 @@ web3研究社
 
 [《精通以太坊——实现数字合约》 ](https://github.com/inoutcode/ethereum_book)
 
-
+[Node.js区块链开发](https://bitcoin-on-nodejs.ebookchain.org/)
 
 ## 13.学院/web3
 
