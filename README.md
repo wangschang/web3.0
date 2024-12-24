@@ -84,7 +84,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [万物皆庞氏](https://mirror.xyz/0x0D59f93374Aa14e81Ff847a3eb59607371C4945f/GQyguotWhnLoHvsFHd7YjpdGiaM4wEVsqYDsBr40N3U)
 
-## 7.Twitter相关用户
+## 7.Twitter KOL
 
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
 
@@ -121,6 +121,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 [https://twitter.com/Pentosh1](https://twitter.com/Pentosh1)
 
 [https://twitter.com/saylor](https://twitter.com/saylor)
+
+[其他人整理的KOL列表](https://panony.notion.site/1ca34107490b436e8c02670828457e44?v=14e07aca9cc64f46831fbe0805da3bd2)
 
 ## 8.Reddit资源
 
