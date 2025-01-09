@@ -110,6 +110,8 @@ web3.0 knowledge collection web3.0 knowledge web3.0 learning materials web3 lear
 
 [https://twitter.com/wangfeng_0128](https://twitter.com/wangfeng_0128)
 
+[others collect fot twitter KOL](https://panony.notion.site/1ca34107490b436e8c02670828457e44?v=14e07aca9cc64f46831fbe0805da3bd2)
+
 
 ## 8.Reddit resources
 
