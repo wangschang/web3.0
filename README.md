@@ -360,6 +360,7 @@ web3研究社
 
 [solidity中文手册](https://solidity-cn.readthedocs.io/zh/develop/introduction-to-smart-contracts.html#)
 
+[solana官方开发手册](https://solana.com/developers/guides)
 
 ## 22. Bitcoin L2
 
