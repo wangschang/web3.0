@@ -84,7 +84,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [万物皆庞氏](https://mirror.xyz/0x0D59f93374Aa14e81Ff847a3eb59607371C4945f/GQyguotWhnLoHvsFHd7YjpdGiaM4wEVsqYDsBr40N3U)
 
-## 7.Twitter KOL
+## 7.X(Twitter) KOL
 
 [https://twitter.com/TheWeb3Project](https://twitter.com/TheWeb3Project)
 
@@ -159,7 +159,7 @@ keegan小刚
 
 web3研究社
 
-## 11.视频相关
+## 11.web3视频相关
 
 [freeCodeCamp 32个小时区块链Web3开发课程](https://www.bilibili.com/video/BV1E94y1m7J5)
 
@@ -178,6 +178,17 @@ web3研究社
 [youtube Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
 [youtube web3入门](https://www.youtube.com/playlist?list=PLENCD250sNBU7uuwVflBagAxNrIqVcdJC)
+
+[Stanford CS 251: Cryptocurrencies and Blockchain Technologies ](https://cs251.stanford.edu/)
+
+[Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
+
+[哔哩哔哩 崔棉大师 Solidity 精通视频合集](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410&ctype=0)
+
+[UC Berkeley: Bitcoin and Cryptocurrencies](https://www.edx.org/learn/bitcoin/university-of-california-berkeley-bitcoin-and-cryptocurrencies)
+
+[github区块链中文课程](https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese)
+
 
 
 ## 12.相关书籍
@@ -221,6 +232,22 @@ web3研究社
 [revoke.cash 钱包相关资料](https://revoke.cash/zh/learn)
 
 [https://abetterweb3.notion.site/](https://abetterweb3.notion.site/)
+
+[Learning Track - HackQuest](https://www.hackquest.io/zh-cn/learning-track)
+
+[WTF Academy 开发者的 Web3 开源大学](https://www.wtf.academy/)
+
+[以太坊智能合约开发入门](https://app3liceniy3301.h5.xiaoeknow.com/p/course/column/p_62350a05e4b04d7e2fd83118?type=3)
+
+[Foundations of Blockchains - Columbia University](https://timroughgarden.github.io/fob21/)
+
+[learnweb3](https://learnweb3.io/)
+
+[use web3](https://www.useweb3.xyz/courses)
+
+[web3.university](https://www.web3.university/)
+
+
 
 ## 14.白皮书
 [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation) 
@@ -330,6 +357,8 @@ web3研究社
 [戈多的区块链知识图谱](https://web3godot.notion.site/47f4be2e9e9146bcb7671bc7feff6bd4?v=a6ba65386b314e14b3d1a060f668893a)
 
 [solidity 文档](https://solidity-cn.readthedocs.io/zh/develop/)
+
+[solidity中文手册](https://solidity-cn.readthedocs.io/zh/develop/introduction-to-smart-contracts.html#)
 
 
 ## 22. Bitcoin L2
