@@ -147,6 +147,12 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [crypto](https://medium.com/tag/crypto)
 
+[memecoins](https://medium.com/tag/memecoins)
+
+[ethereum](https://medium.com/tag/ethereum)
+
+[cryptocurrency](https://medium.com/tag/cryptocurrency)
+
 ## 10.公众号
 
 BuidlerDAO 
@@ -155,9 +161,9 @@ web3中文
 
 白话区块链
 
-keegan小刚
-
 web3研究社
+
+慢雾科技
 
 ## 11.web3视频相关
 
