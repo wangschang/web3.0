@@ -137,6 +137,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 [ERC20](https://www.reddit.com/r/ERC20/)
 
 
+
 ## 9.Medium资源
 
 [web3 tags](https://medium.com/tag/web3)
@@ -152,6 +153,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 [ethereum](https://medium.com/tag/ethereum)
 
 [cryptocurrency](https://medium.com/tag/cryptocurrency)
+
+[RWA] (https://medium.com/tag/rwa)
 
 ## 10.公众号
 
