@@ -158,6 +158,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [pumpfun](https://medium.com/tag/pumpfun)
 
+[solanas](https://medium.com/tag/solanas)
+
 ## 10.公众号
 
 BuidlerDAO 
@@ -373,9 +375,15 @@ web3研究社
 
 [solana官方开发手册](https://solana.com/developers/guides)
 
+[solana开发笔记](https://rustmagazine.github.io/rust_magazine_2021/chapter_10/solana-learn-part1.html)
+
+[solana开发教程](https://github.com/WTFAcademy/WTF-Solana)
+
 ## 22. Bitcoin L2
 
 [The Bitcoin L2 Opportunity](https://medium.com/alliancedao/the-bitcoin-l2-opportunity-9d90517da6f8)
 
 [What Are Bitcoin Layer-2s and How Do They Work?](https://crypto.com/university/what-are-bitcoin-layer-2s)
+
+
 
