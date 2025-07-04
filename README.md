@@ -70,6 +70,8 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 
+[稳定币](https://www.brookings.edu/articles/what-are-stablecoins-and-how-are-they-regulated/)
+
 
 ## 6.Mirror相关资源
 [mirror作者汇总](https://zlexdl.notion.site/1ab3c1114b5a47ecb8480faf78dbde84?v=b618a6f201c74139a244782ad04bece4)
@@ -136,6 +138,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [ERC20](https://www.reddit.com/r/ERC20/)
 
+[StableCoins](https://www.reddit.com/r/StableCoins/)
 
 
 ## 9.Medium资源
