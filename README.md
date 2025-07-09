@@ -219,6 +219,8 @@ web3研究社
 
 [Node.js区块链开发](https://bitcoin-on-nodejs.ebookchain.org/)
 
+[区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition)
+
 ## 13.学院/web3
 
 [币安学院](https://academy.binance.com/zh)
