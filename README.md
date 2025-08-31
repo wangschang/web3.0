@@ -221,6 +221,8 @@ web3研究社
 
 [区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition)
 
+[郝思蒙文集](https://github.com/wangschang/web3.0/blob/main/doc/郝思蒙文集.pdf)
+
 ## 13.学院/web3
 
 [币安学院](https://academy.binance.com/zh)
@@ -347,6 +349,7 @@ web3研究社
 ## 20.magazine
 
 [bitcoinmagazine](https://bitcoinmagazine.com/)
+
 
 ## 21.web3开发资源
 
