@@ -267,6 +267,7 @@ web3研究社
 
 [web3.university](https://www.web3.university/)
 
+[PUMP.FUN的机制全解](https://www.binance.com/zh-CN/square/post/15600492237666)
 
 
 ## 14.白皮书
