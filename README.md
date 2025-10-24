@@ -223,6 +223,7 @@ web3研究社
 
 [郝思蒙文集](https://github.com/wangschang/web3.0/blob/main/doc/郝思蒙文集.pdf)
 
+
 ## 13.学院/web3
 
 [币安学院](https://academy.binance.com/zh)
@@ -328,7 +329,7 @@ web3研究社
 
 
 
-## 19.erc/brc协议
+## 19.erc/brc等协议
 
 [erc-20](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)
 
@@ -346,6 +347,7 @@ web3研究社
 
 [brc20与arc20](https://twitter.com/blockpunk2077/status/1725513817982136617)
 
+[X402协议](https://x.com/KKaWSB/status/1981462753698287706)
 
 ## 20.magazine
 
