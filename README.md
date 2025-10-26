@@ -329,7 +329,7 @@ web3研究社
 
 
 
-## 19.erc/brc等协议
+## 19.erc/brc等其他协议
 
 [erc-20](https://ethereum.org/zh/developers/docs/standards/tokens/erc-20/)
 
@@ -347,7 +347,9 @@ web3研究社
 
 [brc20与arc20](https://twitter.com/blockpunk2077/status/1725513817982136617)
 
-[X402协议](https://x.com/KKaWSB/status/1981462753698287706)
+[X402协议-1](https://x.com/KKaWSB/status/1981462753698287706)
+
+[X402协议-2](https://x.com/BTCdayu/status/1981626741358833993)
 
 ## 20.magazine
 
