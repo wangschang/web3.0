@@ -74,9 +74,9 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 
 [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 
-[稳定币](https://www.brookings.edu/articles/what-are-stablecoins-and-how-are-they-regulated/)
+[稳定币-1](https://www.brookings.edu/articles/what-are-stablecoins-and-how-are-they-regulated/)
 
-[稳定币](https://www.youtube.com/watch?v=ZPaY3kdhVTw)
+[稳定币-2](https://www.youtube.com/watch?v=ZPaY3kdhVTw)
 
 
 
@@ -92,6 +92,7 @@ web3.0知识整理 web3.0知识 web3.0学习资料 web3 learn web3工作 web3job
 [Web3的底层逻辑：制度经济学视角](https://mirror.xyz/kokii.eth/FP6HuwGLNRGhctLyDh6R4H0UDm5liGyO3yZcWsfN-5E)
 
 [万物皆庞氏](https://mirror.xyz/0x0D59f93374Aa14e81Ff847a3eb59607371C4945f/GQyguotWhnLoHvsFHd7YjpdGiaM4wEVsqYDsBr40N3U)
+
 
 ## 7.X(Twitter) KOL
 
