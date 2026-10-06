@@ -341,6 +341,7 @@ web3研究社
 [101 best webtools](https://101blockchains.com/best-web3-tools/)
 
 [https://seedao.xyz/](https://seedao.xyz/)
+[HostDeFi — free token safety scanner + multi-chain markets explorer](https://hostdefi.com)
 
 
 
