@@ -335,6 +335,8 @@ web3研究社
 
 [linkedin.com web3jobs](https://www.linkedin.com/jobs/web3-jobs/)
 
+[Maneki](https://maneki.work/)
+
 
 ## 18.web3 tools 
 
