@@ -337,6 +337,8 @@ web3研究社
 
 [Maneki](https://maneki.work/)
 
+[JobsInCrypto](https://jobsincrypto.net/)
+
 
 ## 18.web3 tools 
 
