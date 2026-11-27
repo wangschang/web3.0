@@ -327,8 +327,6 @@ web3研究社
 
 [电鸭](https://eleduck.com/categories/5)
 
-[www.cryptosquare.org](https://www.cryptosquare.org/?f=wsc&cat=bbs_web3_jobs&lng=zh-cn)
-
 [https://abetterweb3.notion.site/](https://abetterweb3.notion.site/)
 
 [cryptojobslist.com](https://cryptojobslist.com/web3)
